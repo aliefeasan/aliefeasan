@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aliefeasan
-- 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me -> aliefeasan27@gmail.com
 
